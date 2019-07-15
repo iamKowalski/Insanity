@@ -1,0 +1,20 @@
+{
+  "name": "insanity",
+  "version": "1.0.0",
+  "description": "Bot para o servidor Isanity",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "iamKowalski",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.6.4",
+    "transform-props": "^1.0.1"
+  }
+}
